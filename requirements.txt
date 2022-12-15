@@ -1,0 +1,8 @@
+numpy
+
+matplotlib
+seaborn
+
+pydub
+librosa
+scipy
