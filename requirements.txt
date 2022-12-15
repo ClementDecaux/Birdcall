@@ -6,3 +6,5 @@ seaborn
 pydub
 librosa
 scipy
+
+tqdm
